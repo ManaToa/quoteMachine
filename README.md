@@ -16,3 +16,4 @@ Il a été réalisé dans le cadre d'une certification FreeCodeCamp [Build a Ran
 - Redux Toolkit
 - TypeScript
 - react-icons
+- TailwindCSS
