@@ -18,4 +18,3 @@ Il a été réalisé dans le cadre d'une certification FreeCodeCamp
 - Redux Toolkit
 - TypeScript
 - TailwindCSS
-- react-icons
